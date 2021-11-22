@@ -1,0 +1,42 @@
+﻿vms|vnm|tb|qc-vtl2|qc vms2|qc vma2|q.c|qc|q_c|q-c|q&c|qua?ng cáo|quang cao|quảng.cáo|quang.cao, quảng cáo 
+tcqc|tc qc|tc.qc|tc_qc|tu choi quang cao, từ chối quảng cáo 
+tu choi|tu.choi|tu_choi|tu choj, từ chối 
+nhan tin|nhan tjn|nhan.tin|nhan_tin, nhận tin 
+cc|c.c|c.cu|cccc|chung cu|chung.cu|chung.cư|chung_cu, chung cư 
+can ho|can_ho|can.ho|căn_hộ, căn_hộ 
+nha|nhäpho', nhà 
+so@n|soan|so?n|s0an, soạn 
+gui|g?i, gửi 
+sđt|so dt|so dien thoai|số dt|điện thoại, số điện thoại 
+b/thu|biệt thự|biet thu|biet.thu, biệt thự 
+dc|đ.c|đc|đ.c|đ/c|dia chi, địa chỉ 
+l.h|lh|lien he|liên hệ|ljen he|ijen he|l.he, liên hệ 
+ls|l.s|lai suat|l.suat|laj suat|i/ suat|lãi suất, lãi suất 
+qk|quy.khach|quy khach, quý khách 
+uu dai|uu+dai|uu.dai|uu daj, ưu đãi 
+mien phi|mien.phi|miễn phí|miễn.phí|mien_phi|mjen phj|mien phj|mien fi,miễn phí
+0tr.|0tr |0.tr |0.tr., 0 triệu đồng
+nghin.dong|nghin dong|000.đ.|000đ |0k, nghìn đồng 
+d/thang|d/thang|đ/thang|đ/tháng, đồng / tháng 
+d/tin|đ/tin|d/tjn|d/sms, đồng / sms
+k/thang|k/tháng, nghìn đồng / tháng 
+k/ngay|kngay|000/ngay|nghìn/ngày, nghìn đồng / ngày 
+0d |0 d |0.đ.|0.đ , 0 đồng 
+dong|vnđ|vnd, đồng 
+1PN|2PN|3PN| PN |phong ngu|phong_ngu|phong.ngu, phòng ngủ
+hello|hi, chào 
+byebye|bye, tạm biệt 
+good|g00d,tốt
+like,thích
+love,yêu
+yes|yé,vâng
+ok,đồng ý
+sorry,xin lỗi
+busy,bận rộn
+crazy,điên
+die,chết
+for,cho
+free,miễn phí
+good,tốt
+happy,hạnh phúc
+hot,nóng
